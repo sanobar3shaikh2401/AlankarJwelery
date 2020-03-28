@@ -1,0 +1,13 @@
+<html>
+<body>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\AD STONE.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\AD ROUND.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\BLUE & WHITE.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\BLUE STONE.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\ANTIQUE PENDAL.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\RED STONE.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\TALVAR.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\VOILET.png"  width= 400 height=400></a></u></i></b></font>
+<a href="index.html" target="f1"><img src="C:\Users\Shree\Desktop\project images\SILVER.png"  width= 400 height=400></a></u></i></b></font>
+</body>
+</html>

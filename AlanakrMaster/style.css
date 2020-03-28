@@ -1,0 +1,9 @@
+.div
+{
+background-color:white;
+font-size:50px;
+}
+.div:hover
+{
+background-color:pink;
+}

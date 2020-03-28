@@ -1,0 +1,36 @@
+<html>
+
+<body>
+
+<body background="project images\KtY89EO (1).jpg">
+
+<font color="purple" size="25" face="book antiqua"><center><b><i><u>..Diamond..</center></u></i></b>
+</font>
+
+
+<font color="black" size="5" face="book antiqua"><center><b><i><p align="justify">Gold jewellery of the softness of pure (24k) gold, it is usually alloyed with base metals for use in jewelry, altering its hardness and ductility, melting point, color and other properties. Alloys with lower karat rating, typically 22k, 18k, 14k or 10k, contain higher percentages of copper or other base metals or silver or palladium in the alloy.Nickel is toxic, and its release from nickel white gold is controlled by legislation in Europe. Palladium-gold alloys are more expensive than those using nickel. High-karat white gold alloys are more resistant to corrosion than are either pure silver or sterling silver. 
+Diamonds have been treasured as gemstones since their use as religious icons in ancient India.The popularity of diamonds has risen since the 19th century because of increased supply, improved cutting and polishing techniques, growth in the world economy, and innovative and successful advertising campaigns.
+The most familiar uses of diamonds today are as gemstones used for adornment, a use which dates back into antiquity, and as industrial abrasives for cutting hard materials .</p><br><br>
+<br></i></b></font>
+
+
+
+
+<img src="project images\88.003.jpg"  width= 300 height=200 border=3>
+<img src="project images\416.jpg"  width= 300 height=200 border=3>
+<img src="project images\516.jpg"  width= 300 height=200  border=3>
+<img src="project images\135.jpg"  width= 300 height=200  border=3>
+<font color="purple" size="6" face="book antiqua"><b><i><u><a href="bangle diamond.html" target="f1">BANGLE</a></u></i></b></font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color="purple" size="6" face="book antiqua"><b><i><u><a href="diamond earrings.html" target="f1">EARRINGS</a></u></i></b></font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color="purple" size="6" face="book antiqua"><b><i><u><a href="diamond rings.html" target="f1">RINGS</a></u></i></b></font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color="purple" size="6" face="book antiqua"><b><i><u>
+<a href="diamond mangalsutra.php" target="f1">MANGALSUTRA</a></u></i></b></font>
+<img src="project images\Neck-75.jpg"  width= 300 height=200  border=3>
+<img src="project images\1110.jpg"  width= 300 height=200  border=3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color="purple" size="6" face="book antiqua"><b><i><u>
+<a href="diamond necklace.php" target="f1">NECKLACE</a></u></i></b></font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<font color="purple" size="6" face="book antiqua"><b><i><u>
+<a href="pendant diamond.php" target="f1">PENDANT</a></u></i></b></font>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+
+
+
+
+</body>
+
+</html>

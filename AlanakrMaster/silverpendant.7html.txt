@@ -1,0 +1,30 @@
+<html>
+<html>
+<script type="text/javascript">
+function zoomIn(x)
+{
+x.style.height=600;
+x.style.width=600;
+}
+function zoomOut(x)
+{
+x.style.height=500;
+x.style.width=500;
+}
+</script>
+
+<body>
+<img align="left"src="project images\" 
+" align="middle" 
+width= 500
+height=500>
+
+<font color="purple" size="5" face="comic sans ms"><b><i>
+Red & White Stone Silver Pendent
+PRODUCT IN STOCK
+SKU:FJ-1159215
+Rs. 384
+Red & White Stone Silver Pendent. 
+
+•  Purity : 92.5 Carat
+•  Gross Weight : 1.72 Grams
